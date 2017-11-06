@@ -20,6 +20,8 @@ namespace Final_Project
         private void Form1_Load(object sender, EventArgs e)
         {
             //Form load event created
+
+            MessageBox.Show("Hello world");
         }
     }
 }
